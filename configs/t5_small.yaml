@@ -1,0 +1,10 @@
+
+teacher_model: google/flan-t5-large
+student_model: google/flan-t5-small
+
+learning_rate: 3e-4
+epochs: 5
+
+lambda_soft: 1.0
+lambda_hidden: 0.5
+lambda_attention: 0.1
