@@ -156,6 +156,12 @@ based on predictive entropy confidence.
 
 ---
 
+# ✨ Corresponding Author
+
+**Teerapong Panboonyuen** served as the corresponding author and principal contributor of this work, leading the research direction, conceptual development, methodology design, implementation, experimentation, and scientific analysis throughout the project.
+
+---
+
 # ❤️ Acknowledgements
 
 Developed at:
