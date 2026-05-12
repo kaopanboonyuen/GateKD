@@ -37,9 +37,6 @@ The framework dynamically suppresses unreliable teacher supervision while reinfo
 Accepted to:
 - ACL 2026 Workshop TrustNLP Fast Track
 
-Authors:
-- Teerapong Panboonyuen (Chulalongkorn University, MARSAIL)
-
 ---
 
 # 📦 Repository Structure
