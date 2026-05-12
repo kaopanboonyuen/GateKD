@@ -165,5 +165,5 @@ based on predictive entropy confidence.
 # ❤️ Acknowledgements
 
 Developed at:
-- Chulalongkorn University
-- MARSAIL (Motor AI Recognition Solution AI Laboratory)
+- [Chulalongkorn University](https://www.chula.ac.th/)
+- [MARSAIL (Motor AI Recognition Solution AI Laboratory)](https://kaopanboonyuen.github.io/MARS/)
