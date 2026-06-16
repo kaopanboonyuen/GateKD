@@ -148,7 +148,7 @@ based on predictive entropy confidence.
 ```bibtex
 @inproceedings{kao2026gatekd,
   title={GateKD: Confidence-Gated Closed-Loop Distillation for Robust Reasoning},
-  author={Sermsri, K. and Panboonyuen, T.},
+  author={Panboonyuen, Teerapong},
   booktitle={ACL 2026 Workshop TrustNLP Fast Track},
   year={2026}
 }
